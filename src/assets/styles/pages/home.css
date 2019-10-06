@@ -1,0 +1,12 @@
+#page_home ul {
+	list-style-type: none;
+}
+
+#page_home .p-link {
+	color: blue;
+	cursor: pointer;
+}
+
+#page_home .p-link:hover {
+	color: #002442;
+}
