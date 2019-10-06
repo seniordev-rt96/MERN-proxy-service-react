@@ -1,0 +1,24 @@
+header {
+	background-color: #002442;
+}
+
+header .logo {
+	font-size: 20px;
+	padding: 20px;
+}
+
+header .logo a{
+	text-decoration: none;
+}
+
+header .navbar {
+	margin-top: 5px;
+}
+
+header .navbar .nav-link {
+	color: white;
+}
+
+header .btn-login {
+	border-radius: initial;
+}

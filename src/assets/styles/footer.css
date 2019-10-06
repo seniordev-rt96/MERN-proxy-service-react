@@ -1,0 +1,23 @@
+footer {
+	background-color: #002442;
+	padding-top: 15px;
+}
+
+footer .fontawesome-icon {
+	color: white;
+	margin: 10px;
+}
+
+footer .fontawesome-icon:hover {
+	color: blue;
+	cursor: pointer;
+}
+
+footer hr {
+	background-color: #404e59;
+}
+
+footer .copyright {
+	color: #404e59;
+	margin-bottom: 20px;
+}
