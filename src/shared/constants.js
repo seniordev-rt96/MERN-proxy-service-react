@@ -10,12 +10,12 @@ module.exports = {
 			'COMMENT': 'github Subscription'
 		},
 		{
-			'URL': 'twitter.com',
-			'COMMENT': 'twitter Subscription'
+			'URL': 'ahrefs.com',
+			'COMMENT': 'ahrefs Subscription'
 		},
 		{
-			'URL': 'vk.com',
-			'COMMENT': 'vk Subscription'
+			'URL': 'ahrefs.com/user/login',
+			'COMMENT': 'ahrefs.com/user/login Subscription'
 		},
 		{
 			'URL': 'facebook.com',
